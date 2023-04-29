@@ -4,3 +4,21 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+        Robux:10000
+        Work-true
+        Player view
+           /
+          /
+         Server
+          PlayerviewHomescreen
+          /normal
+         CopyRobloxHome
+         /
+        /
+       if
+       Playerjoin:Type:brookhaven
+       Fluxusautoopen
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+       ifnot: Reload 
+      Player: Position unstuck
+      
